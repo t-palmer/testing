@@ -1,3 +1,4 @@
+E local
 C
 
 # testing
